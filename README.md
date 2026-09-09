@@ -41,18 +41,6 @@
       <sub><b>✨ Campaña CRUNCHY</b></sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="public/CRUNCHY.png" alt="Identidad Visual CRUNCHY" width="100%" />
-      <br />
-      <sub><b>🍕 Identidad Visual y Marca</b></sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="public/CrunchyValidator.Demo.gif" alt="Flujo de Verificación" width="100%" />
-      <br />
-      <sub><b>⚡ Flujo de Verificación en Tiempo Real</b></sub>
-    </td>
-  </tr>
 </table>
 
 ---
